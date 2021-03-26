@@ -1,0 +1,20 @@
+.form {
+  padding: 20px;
+  background-color: #f0f0f0;
+  border: 2px solid #e0e0e0; }
+  .form__group {
+    margin-bottom: 10px;
+    background-color: #d0d0d0;
+    padding: 10px; }
+    .form__group.--no-bg {
+      background-color: #fff; }
+  .form__button {
+    background-color: #d0d0d0;
+    padding: 10px; }
+    .form__button-btn {
+      background-color: red;
+      color: #fff;
+      border: none;
+      padding: 10px 20px; }
+      .form__button-btn:hover {
+        background-color: darkred; }
